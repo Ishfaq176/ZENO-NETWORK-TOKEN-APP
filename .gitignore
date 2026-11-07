@@ -1,0 +1,16 @@
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+key.properties
+keystore.properties
+signing.properties
+local.properties
+google-services.json
+service-account*.json
+*service_account*.json
+credentials*.json
+zenonetworkkey
+pass key
